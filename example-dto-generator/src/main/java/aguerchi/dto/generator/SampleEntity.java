@@ -1,7 +1,6 @@
 package aguerchi.dto.generator;
 
-import com.dto.generator.quarkus.runtime.annotation.DtoGenerator;
-
+import ag.codegen.quarkus.runtime.annotation.DtoGenerator;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
