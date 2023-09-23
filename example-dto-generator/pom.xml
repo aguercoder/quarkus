@@ -56,7 +56,7 @@
 </dependency>
     <!-- DTO Generator -->
     <dependency>
-      <groupId>ag.codegen</groupId>
+      <groupId>com.agcodegen</groupId>
       <artifactId>quarkus-dto-generator</artifactId>
       <version>1.0.0-SNAPSHOT</version>
     </dependency>
